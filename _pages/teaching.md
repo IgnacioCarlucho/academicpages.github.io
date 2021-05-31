@@ -14,13 +14,14 @@ I have taught a number of undergraduate classes and performed as a teaching assi
     - [Syllabus](/files/teaching/Syllabus_ME2543_fall_2020.pdf)
 
 
-### Teaching Assistant 
+
 
 
 ##  National University of Central Buenos Aires 
+### Teaching Assistant 
 - Algebra and Analytic Geometry (2015-2019)
 
-### Student Teaching Assistant 
 
 ## National University of Central Buenos Aires 
+### Student Teaching Assistant 
 - Algebra and Analytic Geometry (2013-2015)
