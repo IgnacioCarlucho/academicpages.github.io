@@ -2,6 +2,8 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+
+
 I have taught a number of undergraduate classes and performed as a teaching assistant. 
 
 
