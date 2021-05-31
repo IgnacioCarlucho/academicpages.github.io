@@ -12,4 +12,7 @@ I am a Postdoctoral Researcher at the [iCore Lab](https://icorelab.github.io/ind
 
 
 
-![Underwater vehicle manipulator system](/images/bluerov_reach5.jpg){:class="img-responsive"}
+
+| ![Underwater vehicle manipulator system](/images/bluerov_reach5.jpg){:class="img-responsive"}  | ![Autonomous Vehicle](/images/Pioneer_3at.jpg){:class="img-responsive"} |
+|:---:|:---:|
+| Underwater vehicle manipulator system | Autonomous Vehicle |
