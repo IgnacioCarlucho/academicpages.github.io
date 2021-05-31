@@ -24,9 +24,9 @@ deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S
 
 ### Congress Publications
 
-* Carlucho, I., Stephens, W.D., Barbalata, C., Insights into a data driven optimal control for energy efficient manipulation, (2020), Oceans Gulf Coast. 
+* Carlucho, I., Stephens, W.D., Barbalata, C., [Insights into a data driven optimal control for energy efficient manipulation](https://ieeexplore.ieee.org/document/9389107), (2020), Oceans Gulf Coast. 
 
-* Carlucho, I., De Paula, M., Barbalata, C., Acosta, G.G., A reinforcement learning control approach for underwater manipulation under position and torque constraints, (2020), Oceans Gulf Coast. 
+* Carlucho, I., De Paula, M., Barbalata, C., Acosta, G.G., [A reinforcement learning control approach for underwater manipulation under position and torque constraints](https://ieeexplore.ieee.org/document/9389378), (2020), Oceans Gulf Coast. 
 
 * Meira, M.,Carlucho, I.,  Álvarez, R., Catalano, L.,  and Acosta, G.G., [DGA: A novel strategy for key gases identification in power transformers](https://ieeexplore.ieee.org/document/9158662), 2020 IEEE Electrical Insulation Conference (EIC)
 
@@ -40,7 +40,7 @@ deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S
 
 * Acosta, G.G., Menna, B.V., de la Vega, R.J., Arrien, L.M., Curti, H.J., De Paula, M., Carlucho, I., Solari, F.J., Rozenfeld, A., [MACÁBOT: prototipo de vehículo autónomo de superficie](http://rtyc.utn.edu.ar/index.php/rtyc/article/view/344) (ASV) (2017), IX Jornada Argentinas de Robótica JAR 2017
 
-* Carlucho, I., Menna, B., De Paula, M., Acosta, G.G., [Comparison of a PID controller versus a LQG controller for an autonomous underwater vehicle](http://ieeexplore.ieee.org/document/7922475/) (2017) 2016 3rd IEEE/OES South American International Symposium on Oceanic Engineering, SAISOE 2016, art. no. 7922475, . 
+* Carlucho, I., Menna, B., De Paula, M., Acosta, G.G., [Comparison of a PID controller versus a LQG controller for an autonomous underwater vehicle](http://ieeexplore.ieee.org/document/7922475/) (2017) 2016 3rd IEEE/OES South American International Symposium on Oceanic Engineering, SAISOE 2016, art. no. 7922475
 
 * Petit, A., Paulo, C., Carlucho, I., Menna, B., De Paula, M., [Prediction of the hydrodynamic coefficients of an autonomous underwater vehicle](http://ieeexplore.ieee.org/document/7922474/) (2017) 2016 3rd IEEE/OES South American International Symposium on Oceanic Engineering, SAISOE 2016. 
 
