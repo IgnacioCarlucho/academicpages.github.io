@@ -1,5 +1,5 @@
 ---
-title: "Instructor ME 2543"
+title: "Instructor ME 2543 Fall"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
