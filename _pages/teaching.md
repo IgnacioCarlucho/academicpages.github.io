@@ -18,10 +18,9 @@ I have taught a number of undergraduate classes and performed as a teaching assi
 
 
 ##  National University of Central Buenos Aires 
-### Teaching Assistant 
 - Algebra and Analytic Geometry (2015-2019)
-
+    - Teaching Assistant
 
 ## National University of Central Buenos Aires 
-### Student Teaching Assistant 
 - Algebra and Analytic Geometry (2013-2015)
+    - Student Teaching Assistant 
