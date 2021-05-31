@@ -13,6 +13,3 @@ I am a Postdoctoral Researcher at the [iCore Lab](https://icorelab.github.io/ind
 
 My main research interest is focused on the development of artificial intelligence techniques for the control of complex robotic platforms, such as underwater autonomous vehicle-manipulator systems. Particularly, I am interested in reinforcement learning (RL) as a suitable control strategy for this type of complex control systems. Currently during my postdoctoral studies, I have been exploring the benefits of data-driven models and bio spired neural network architectures for control. 
 
-| ![Underwater vehicle manipulator system](/images/bluerov_reach5.jpg){:class="img-responsive"}  | ![Autonomous Vehicle](/images/Pioneer_3at.jpg){:class="img-responsive"} |
-|:---:|:---:|
-| Underwater vehicle manipulator system | Autonomous Vehicle |
