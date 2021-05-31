@@ -12,3 +12,4 @@ I am a Postdoctoral Researcher at the [iCore Lab](https://icorelab.github.io/ind
 
 
 
+![Underwater vehicle manipulator system](/images/bluerov_reach5.jpg){:class="img-responsive"}
