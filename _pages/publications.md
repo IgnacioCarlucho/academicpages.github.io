@@ -5,7 +5,7 @@ title: "Publications"
 
 ### Journal Publications
 
-* Carlucho, I., Dylan W. Stephens, Corina Barbalata, [An adaptive data-driven controller for underwater manipulators with variable payload](https://www.journals.elsevier.com/applied-ocean-research) (2021) Applied Ocean Research
+* Carlucho, I., Dylan W. Stephens, Corina Barbalata, [An adaptive data-driven controller for underwater manipulators with variable payload](https://www.sciencedirect.com/science/article/abs/pii/S0141118721002030) (2021) Applied Ocean Research
 
 * Avila L., De Paula, M., Trimboli, M., Carlucho, I., [Deep reinforcement learning approach for MPPT control of partially shaded PV systems in Smart Grids](https://www.sciencedirect.com/science/article/abs/pii/S1568494620306499) (2020) Applied Soft Computing
 
@@ -23,6 +23,8 @@ deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S
 (2017) Expert Systems with Applications, 80, pp. 183-199. 
 
 ### Congress Publications
+
+* Oubre, J.P., Carlucho, I., Barbalata C., [Data-driven controllers and the need for perception systems in underwater manipulation](https://dartmouthrobotics.github.io/icra-2021-uw-active-perception/contributed-talks) (2021) 1st Advanced Marine Robotics TC Workshop: Active Perception, ICRA
 
 * Carlucho, I., Stephens, W.D., Barbalata, C., [Insights into a data driven optimal control for energy efficient manipulation](https://ieeexplore.ieee.org/document/9389107), (2020), Oceans Gulf Coast. 
 
