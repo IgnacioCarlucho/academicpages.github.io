@@ -24,7 +24,9 @@ deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S
 
 ### Congress Publications
 
-* Carlucho, I., Bailey, M.F., De Paula, M., Barbalata, C., [Marine Vehicles Localization Using Grid Cells for Path Integration](https://arxiv.org/abs/2107.13461) (2021) Preprint Arxiv
+* Carlucho, I., Bailey, M.F., De Paula, M., Barbalata, C., [Marine Vehicles Localization Using Grid Cells for Path Integration](https://arxiv.org/abs/2107.13461) (2021) Submitted to Oceans 2021 - Preprint Arxiv
+
+* Scharff Willners, J., Carlucho I., Luczyński, T., Katagiri, S., Lemoine, C., Roe, J., Stephens, D., Xu, S., Carreno, Y., Pairet, E., Barbalata, C., Petillot, Y., Wang, S., [From market-ready ROVs to low-cost AUVs](https://arxiv.org/abs/2108.05792) (2021) Submitted to Oceans 2021 - Preprint Arxiv
 
 * Oubre, J.P., Carlucho, I., Barbalata C., [Data-driven controllers and the need for perception systems in underwater manipulation](https://dartmouthrobotics.github.io/icra-2021-uw-active-perception/contributed-talks) (2021) 1st Advanced Marine Robotics TC Workshop: Active Perception, ICRA
 
