@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ignacio Carlucho"
 title_separator          : "-"
 name                     : &name Ignacio Carlucho"
-description              : &description "Postdoctoral Researcher at LSU"
+description              : &description "Postdoctoral Researcher at UoE"
 url                      : https://ignaciocarlucho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ignaciocarlucho/ignaciocarlucho.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ignacio Carlucho"
   avatar           : "ignacio.jpg"
-  bio              : "Postdoctoral Researcher at LSU"
-  location         : "USA"
+  bio              : "Postdoctoral Researcher at UoE"
+  location         : "Edinburgh"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GTsgFVMAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ignacio-Carlucho"
   uri              :
   bitbucket        :
   codepen          :

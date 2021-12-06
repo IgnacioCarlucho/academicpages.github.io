@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [iCore Lab](https://icorelab.github.io/index.html) in the Mechanical Enginerinng department at [Louisiana State University](https://lsu.edu/). I am currently working on intelligent control techniques, with a focus on Reinforcement learning for the control of autonomous underwater vehicle manipulator systems. I obtained my PhD in the [National University of Central Buenos Aires](https://www.unicen.edu.ar/english) working with a scolarship from the [National Scientific and Research Council](https://www.conicet.gov.ar/?lan=en).
+I am a Postdoctoral Researcher at the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/stefano-albrecht/) in the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I obtained my PhD in Engineering at the [National University of Central Buenos Aires](https://www.unicen.edu.ar/english) as part of the [National Scientific and Research Council](https://www.conicet.gov.ar/?lan=en). I was previously a Research Assistant at the [iCore Lab](https://icorelab.github.io/index.html) in Louisiana State University. 
 
 
-My main research interest is focused on the development of artificial intelligence techniques for the control of complex robotic platforms, such as underwater autonomous vehicle-manipulator systems. Particularly, I am interested in reinforcement learning (RL) as a suitable control strategy for this type of complex control systems. Currently during my postdoctoral studies, I have been exploring the benefits of data-driven models and bio spired neural network architectures for control. 
+
+
+
+My main research interest is the development of intelligent agents, capable of making autonomous decision, without the need of human supervision. Particularly, I see reinforcement learning as a viable learning paradigm, which could enable adaptive and intelligent behavior in robotic systems. Thus, the main focus of my research so far has been on the development of control strategies for complex robotic platforms, such as underwater autonomous vehicle-manipulator systems. Currently, as part of the Autonomous Agents Research Group, I am working on ad hoc teamwork. 
+ 
 
