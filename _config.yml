@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ignacio Carlucho"
   avatar           : "ignacio.jpg"
-  bio              : "Postdoctoral Researcher at UoE"
+  bio              : "Postdoctoral Researcher at The University of Edinburgh"
   location         : "Edinburgh"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GTsgFVMAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Ignacio-Carlucho"
+  researchgate     : # "https://www.researchgate.net/profile/Ignacio-Carlucho"
   uri              :
   bitbucket        :
   codepen          :
