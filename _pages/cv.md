@@ -16,7 +16,12 @@ Education
 
 Work experience
 ======
-* 2020-Current: Research Assistant
+* 2021-Current: Research Assistant
+  * The University of Edinburgh
+  * Duties included: Research, supervising students
+  * Supervisor: Dr. Stefano V. Albrecht
+
+* 2020-2021: Research Assistant
   * Louisiana State University
   * Duties included: Research, teaching, supervising students
   * Supervisor: Dr. Corina Barbalata
@@ -25,19 +30,22 @@ Work experience
   * National University of Central Buenos Aires
   * Duties included: Research
   * Supervisor: Dr. Gerardo G. Acosta
-  
 
-Publications
+  Teaching
+  ======
+    <ul>{% for post in site.teaching  reversed  %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching  reversed  %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
+
+  Publications full
+  ======
+    <ul>{% for post in site.pages.publications %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
