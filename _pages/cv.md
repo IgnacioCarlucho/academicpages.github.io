@@ -31,21 +31,14 @@ Work experience
   * Duties included: Research
   * Supervisor: Dr. Gerardo G. Acosta
 
-  Teaching
-  ======
+Teaching
+======
     <ul>{% for post in site.teaching  reversed  %}
       {% include archive-single-cv.html %}
     {% endfor %}</ul>
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-
-  Publications full
-  ======
-    <ul>{% for post in site.pages.publications %}
-      {% include archive-single-cv.html %}
-    {% endfor %}</ul>
