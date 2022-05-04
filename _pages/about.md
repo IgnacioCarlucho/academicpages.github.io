@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/stefano-albrecht/) in the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I obtained my PhD in Engineering at the [National University of Central Buenos Aires](https://www.unicen.edu.ar/english) as part of the [National Scientific and Research Council](https://www.conicet.gov.ar/?lan=en). I was previously a Research Assistant at the [iCore Lab](https://icorelab.github.io/index.html) in Louisiana State University.
-
-
+I am a Postdoctoral Researcher at the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/stefano-albrecht/) in the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/), working under the supervision of [Dr. Stefano V. Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/). I was previously a Research Assistant at the [iCore Lab](https://icorelab.github.io/index.html) in Louisiana State University, working under the supervision of [Dr. Corina Barbalata](https://www.lsu.edu/eng/mie/people/faculty/barbalata.php).
 
 
 My main research interest is the development of intelligent agents, capable of making autonomous decision, without the need of human supervision. Particularly, I see reinforcement learning as a viable learning paradigm, which could enable adaptive and intelligent behavior in robotic systems. Thus, the main focus of my research so far has been on the development of control strategies for complex robotic platforms, such as underwater autonomous vehicle-manipulator systems. Currently, as part of the Autonomous Agents Research Group, I am working on ad hoc teamwork.
+
+I obtained my PhD in Engineering at the [National University of Central Buenos Aires](https://www.unicen.edu.ar/english) with a fellowship from the [National Scientific and Research Council](https://www.conicet.gov.ar/?lan=en).  I received my BSc in Electromechanical Engineering also from the National University of Central Buenos Aires with a Scholarship from the [Roberto Rocca Education program](https://www.robertorocca.org/en/scholarships.aspx), a part of the Techint Group.
 
 
 ## News
