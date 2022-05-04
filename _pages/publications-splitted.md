@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /publicationsbyvenue/
+title: "Publications by venue"
 ---
 
 ### Journal Publications
@@ -20,7 +20,7 @@ deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S
 (2018) Robotics and Autonomous Systems.
 
 * Carlucho, I., De Paula, M., Villar, S.A., Acosta, G.G., [Incremental Q-learning strategy for adaptive PID control of mobile robots](https://www.sciencedirect.com/science/article/pii/S0957417417301513?via%3Dihub)
-(2017) Expert Systems with Applications, 80, pp. 183-199. 
+(2017) Expert Systems with Applications, 80, pp. 183-199.
 
 ### Congress Publications
 
@@ -30,15 +30,15 @@ deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S
 
 * Oubre, J.P., Carlucho, I., Barbalata C., [Data-driven controllers and the need for perception systems in underwater manipulation](https://dartmouthrobotics.github.io/icra-2021-uw-active-perception/contributed-talks) (2021) 1st Advanced Marine Robotics TC Workshop: Active Perception, ICRA
 
-* Carlucho, I., Stephens, W.D., Barbalata, C., [Insights into a data driven optimal control for energy efficient manipulation](https://ieeexplore.ieee.org/document/9389107), (2020), Oceans Gulf Coast. 
+* Carlucho, I., Stephens, W.D., Barbalata, C., [Insights into a data driven optimal control for energy efficient manipulation](https://ieeexplore.ieee.org/document/9389107), (2020), Oceans Gulf Coast.
 
-* Carlucho, I., De Paula, M., Barbalata, C., Acosta, G.G., [A reinforcement learning control approach for underwater manipulation under position and torque constraints](https://ieeexplore.ieee.org/document/9389378), (2020), Oceans Gulf Coast. 
+* Carlucho, I., De Paula, M., Barbalata, C., Acosta, G.G., [A reinforcement learning control approach for underwater manipulation under position and torque constraints](https://ieeexplore.ieee.org/document/9389378), (2020), Oceans Gulf Coast.
 
 * Meira, M.,Carlucho, I.,  Álvarez, R., Catalano, L.,  and Acosta, G.G., [DGA: A novel strategy for key gases identification in power transformers](https://ieeexplore.ieee.org/document/9158662), 2020 IEEE Electrical Insulation Conference (EIC)
 
 * Acosta, G.G., Menna, B.V., Carlucho, I., De Paula, M., Villar, S., Curti, H.J., Rozenfeld, A., de la Vega, R.J., Isasmendi, A., Leegstra, R., Arrien, L.M., [ICTIOBOT-40 a low cost AUV platform for acoustic imaging surveying](https://ieeexplore.ieee.org/document/8867290) (2019), OCEANS 2019, Marseille, France
 
-* Carlucho, I., De Paula, M., Wang, S., Menna, B., Petillot, Y.R., Acosta, G.G., [AUV Position Tracking Control Using End-to-End Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8604791) (2018), OCEANS 2018 Charleston 
+* Carlucho, I., De Paula, M., Wang, S., Menna, B., Petillot, Y.R., Acosta, G.G., [AUV Position Tracking Control Using End-to-End Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8604791) (2018), OCEANS 2018 Charleston
 
 * Carlucho I., de la Vega R., Spina M., Acosta G.G., [A Modular Battery Management System for Electric Vehicles](https://ieeexplore.ieee.org/document/8646227), (2018) 2018 IEEE Biennial Congress of Argentina, ARGENCON 2018
 
@@ -48,6 +48,6 @@ deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S
 
 * Carlucho, I., Menna, B., De Paula, M., Acosta, G.G., [Comparison of a PID controller versus a LQG controller for an autonomous underwater vehicle](http://ieeexplore.ieee.org/document/7922475/) (2017) 2016 3rd IEEE/OES South American International Symposium on Oceanic Engineering, SAISOE 2016, art. no. 7922475
 
-* Petit, A., Paulo, C., Carlucho, I., Menna, B., De Paula, M., [Prediction of the hydrodynamic coefficients of an autonomous underwater vehicle](http://ieeexplore.ieee.org/document/7922474/) (2017) 2016 3rd IEEE/OES South American International Symposium on Oceanic Engineering, SAISOE 2016. 
+* Petit, A., Paulo, C., Carlucho, I., Menna, B., De Paula, M., [Prediction of the hydrodynamic coefficients of an autonomous underwater vehicle](http://ieeexplore.ieee.org/document/7922474/) (2017) 2016 3rd IEEE/OES South American International Symposium on Oceanic Engineering, SAISOE 2016.
 
-* De Paula, M., Carlucho, I., Rozenfeld, A., Acosta, G.G., [Modeling and identification of mobile vehicles using low complexity data driven models](http://ieeexplore.ieee.org/document/7585272/) (2016) 2016 IEEE Biennial Congress of Argentina, ARGENCON 2016, p. 20120. 
+* De Paula, M., Carlucho, I., Rozenfeld, A., Acosta, G.G., [Modeling and identification of mobile vehicles using low complexity data driven models](http://ieeexplore.ieee.org/document/7585272/) (2016) 2016 IEEE Biennial Congress of Argentina, ARGENCON 2016, p. 20120.
