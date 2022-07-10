@@ -12,10 +12,10 @@ redirect_from:
 <style type="text/css">
 
 body{ /* Normal  */
-      font-size: 10px;
+      font-size: 12px;
   }
 td {  /* Table  */
-  font-size: 8px;
+  font-size: 10px;
 }
 h1.title {
   font-size: 38px;
