@@ -3,11 +3,33 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-font-size: 12pt
 redirect_from:
   - /about/
   - /about.html
 ---
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 10px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 38px;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+}
+</style>
 
 
 I am a Postdoctoral Researcher at the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/stefano-albrecht/) in the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/), working under the supervision of [Dr. Stefano V. Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/). I was previously a Research Assistant at the [iCore Lab](https://icorelab.github.io/index.html) in Louisiana State University, working under the supervision of [Dr. Corina Barbalata](https://www.lsu.edu/eng/mie/people/faculty/barbalata.php).
