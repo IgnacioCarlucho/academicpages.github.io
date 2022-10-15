@@ -18,7 +18,8 @@ My main research interest is the development of intelligent agents, capable of m
 
 
 ## News
-
+- Oct 2022: A pre print of our new article on [partially observable ad hoc teamwork](https://arxiv.org/abs/2210.05448) is now in arXiv
+- Oct 2022: I am a google cloud championg innovator! [You can check my profile here](https://developers.google.com/profile/u/ignacio-carlucho)
 - Jul 2022: Our newly released Survey on underwater manipulation is out! [Check it out here](https://link.springer.com/article/10.1007/s43154-022-00089-2)
 - Jul 2022: Check out the procedings of our workshop in [Ad Hoc Teamwork](https://sites.google.com/view/ad-hoc-teamwork/) where we played [Hanabi](https://twitter.com/IJCAIconf/status/1551182997017296897)
 - Jun 2022: Check out our ICRA paper [Robotic Manipulators Performing Smart Sanding Operation](https://ieeexplore.ieee.org/abstract/document/9812029)
