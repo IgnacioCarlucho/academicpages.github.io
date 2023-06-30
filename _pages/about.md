@@ -9,16 +9,17 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Researcher at the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/stefano-albrecht/) in the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/), working under the supervision of [Dr. Stefano V. Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/). I was previously a Research Assistant in the [iCore Lab](https://icorelab.github.io/index.html) at Louisiana State University, working under the supervision of [Dr. Corina Barbalata](https://www.lsu.edu/eng/mie/people/faculty/barbalata.php).
+I am an Assistant Professor at Heriot-Watt University and the National Robotarium. Previously, I was a Postdoctoral Researcher at the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/stefano-albrecht/) in the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/), working under the supervision of [Dr. Stefano V. Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/). I was previously a Postdoctoral Researcher in the [iCore Lab](https://icorelab.github.io/index.html) at Louisiana State University, working under the supervision of [Dr. Corina Barbalata](https://www.lsu.edu/eng/mie/people/faculty/barbalata.php).
 
 
 My main research interest is the development of intelligent agents, capable of making autonomous decisions, without the need for human supervision. Particularly, I see reinforcement learning as a viable learning paradigm, which could enable adaptive and intelligent behaviour in robotic systems. Thus, the main focus of my research so far has been on the development of control strategies for complex robotic platforms, such as underwater autonomous vehicle-manipulator systems. Currently, as part of the Autonomous Agents Research Group, I am working on ad hoc teamwork.
 
 
-I will soon join Heriot-Watt University as an Assistant Professor. If you are interested in doing a PhD please contact me.  
+If you are interested in doing a PhD in robotics, reinforcement learning, or multi-agent systems do not hesitate to contact me.  
 
 ## News
-- Mar 2023: Our workshop in [ad hoc teamwork](https://sites.google.com/view/ad-hoc-teamwork/home?authuser=0) has been accepted and will be held in [IJCAI 2023](https://ijcai-23.org/)
+- Jun 2023: Our workshop in [Deep learning for field robotics: tools, methods, and challenges](https://sites.google.com/view/deep-learning-field-robotics/home) has been accepted in ICIAP
+- May 2023: I started a new position as Assistant Professor at Heriot-Watt University. 
 - Oct 2022: A pre-print of our new article on [partially observable ad hoc teamwork](https://arxiv.org/abs/2210.05448) is now in arXiv
 - Oct 2022: I am a google cloud champion innovator! [You can check my profile here](https://developers.google.com/profile/u/ignacio-carlucho)
 - Jul 2022: Our newly released Survey on underwater manipulation is out! [Check it out here](https://link.springer.com/article/10.1007/s43154-022-00089-2)

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ignacio Carlucho"
 title_separator          : "-"
 name                     : &name Ignacio Carlucho"
-description              : &description "Postdoctoral Researcher at UoE"
+description              : &description " Assistant Professor at HWU"
 url                      : https://ignaciocarlucho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ignaciocarlucho/ignaciocarlucho.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ignacio Carlucho"
   avatar           : "ignacio.jpg"
-  bio              : "Postdoctoral Researcher at The University of Edinburgh"
+  bio              : "Assistant Professor at Heriot-Watt University"
   location         : "Edinburgh"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
